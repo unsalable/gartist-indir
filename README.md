@@ -1,6 +1,6 @@
 # Gartist
 
-Bir resmi Gartic Phone'un çizim alanına **gerçek fare hareketleriyle** çizer. Oyuna eklenti ya da hile kodu
+Bir resmi **Gartic Phone**'un ya da **gartic.io**'nun çizim alanına **gerçek fare hareketleriyle** çizer. Oyuna eklenti ya da hile kodu
 yüklemez; fareyi ve klavye kısayollarını senin yerine kullanır. *(Eski adı: Gartic Çizici.)*
 
 ### [⬇ Gartist'i indir (GarticCizici.exe)](https://github.com/unsalable/gartist-indir/releases/latest/download/GarticCizici.exe)
@@ -18,7 +18,8 @@ Gereksinim: Windows 10 veya 11. Başka hiçbir şey kurman gerekmez.
 
 ## Kullanım
 1. **Resim** — "Resim seç", pencereye sürükle-bırak ya da tarayıcıda resmi kopyalayıp **Ctrl+V**.
-2. **Oyun ekranı** — Gartic'te çizim sırası gelince **"Çizim alanını seç"**, yeşil çerçeve doğruysa **Enter**.
+2. **Oyun ekranı** — üstten oyunu seç (**Gartic Phone** / **Gartic.io**); çizim sırası gelince
+   **"Çizim alanını seç"**, yeşil çerçeve doğruysa **Enter**.
 3. **Çizim ayarları** — önizleme oyundaki sonucu ve tahmini süreyi gösterir. Önerilen mod: **Hızlı**.
 4. **Çiz** — çizerken fareye dokunma; durdurmak için **Esc**.
 
@@ -26,6 +27,11 @@ Başlık çubuğunun ortasındaki ada her zaman sıradaki adımı söyler. Çize
 **kaç saniye kaldığını**, yüzdeyi ve sıradaki rengi gösterir.
 
 ![Çizim sırasında durum kartı](docs/durum.png)
+
+## Gartic.io
+gartic.io'da kalemle çizen modlar kullanılır: **Renkli HD**, **Çizim / Manga HD** ve ızgara modları. **Hızlı** ve
+**Gerçekçi HD** yalnızca Gartic Phone'da çalışır (gartic.io'da özel renk ve kova kısayolu yok). Oyunda kalem seçili
+ve opaklık %100 olmalı; kalınlığı seçip **"Kalemi ölç"**e bas. Her oyunun çizim alanı ayrı hatırlanır.
 
 ## Ayarlar
 Sağ üstteki ⚙ düğmesinden:
